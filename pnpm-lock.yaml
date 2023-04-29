@@ -1,0 +1,29 @@
+lockfileVersion: 5.4
+
+specifiers:
+  bun-types: ^0.5.0
+  nan: ^2.17.0
+  tree-sitter-cli: ^0.20.8
+
+dependencies:
+  nan: 2.17.0
+
+devDependencies:
+  bun-types: 0.5.8
+  tree-sitter-cli: 0.20.8
+
+packages:
+
+  /bun-types/0.5.8:
+    resolution: {integrity: sha512-VHwD0MAHo3wraYAeqTWH2NDmXOdGfC3wWWOnZvK93ytI6yq/LkgsCjDudWNmN7MlfPvJb2zoLMnkzhjxNwLsLw==}
+    dev: true
+
+  /nan/2.17.0:
+    resolution: {integrity: sha512-2ZTgtl0nJsO0KQCjEpxcIr5D+Yv90plTitZt9JBfQvVJDS5seMl3FOvsh3+9CoYWXf/1l5OaZzzF6nDm4cagaQ==}
+    dev: false
+
+  /tree-sitter-cli/0.20.8:
+    resolution: {integrity: sha512-XjTcS3wdTy/2cc/ptMLc/WRyOLECRYcMTrSWyhZnj1oGSOWbHLTklgsgRICU3cPfb0vy+oZCC33M43u6R1HSCA==}
+    hasBin: true
+    requiresBuild: true
+    dev: true
